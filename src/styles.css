@@ -1,0 +1,23 @@
+* {
+  color: whitesmoke;
+  background-color: #333;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.meaning {
+  padding-top: 1.5rem;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: rgb(245, 216, 191);
+}
+input {
+  width: 80%;
+  height: 5vh;
+  padding-left: 0.5rem;
+  background-color: antiquewhite;
+  color: #333;
+  font-size: 1rem;
+}
